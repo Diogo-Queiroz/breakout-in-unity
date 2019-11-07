@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityProjects\Breakout" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NewScripts" t="Include">
+          <e p="Ball.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PowerUpBlue.cs" t="Include" />
+          <e p="PowerUpRed.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="LifeSupply.cs" t="Include" />
+          <e p="MovePlayer.cs" t="Include" />
+          <e p="OldBall.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Breakout.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\diogo\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\diogo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Breakout.112144644.00" t="ExcludeRecursive" />
+  </component>
+</project>
